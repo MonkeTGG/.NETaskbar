@@ -1,1 +1,2 @@
-alert("hi lucas charles grant");
+// alert("hi lucas charles grant");
+console.log("nat::l:u");
